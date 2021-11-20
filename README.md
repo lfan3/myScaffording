@@ -1,11 +1,9 @@
-[template]:js or ts
---git, -g: run git init to initialize a git repo
---install, -i: install dependencies for the project
---yes, -y: skip all prompts and use default
+# This a project to creat a simple scaffording which allows to start the react project quickly.
 
-todo
+## command line
+fe init
+
+todo:
+allow user to name their project
 estlint
 deployment
-put the thing inside the npm
-runInstall have changed : need to change
-i would like to write my project installer
